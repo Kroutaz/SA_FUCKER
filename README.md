@@ -1,3 +1,6 @@
+ # !Warning!
+- Mobile is NOT supported.
+- The only way to run Sa Fucker on mobile is to connect a keyboard to your phone, either IRL or Via a Script that you could find on google (Virtual keyboards)
  # Sa Fucker
 - This script has been made by Kroutaz (Discord user: "kroutaz") And Wizz7 (Discord user: "skilzed.")
 - This script countain mostly pvp scripts (It is not one of those trashy grinding gui) some of the examples are no cooldown, 15 Seconds time stop...
