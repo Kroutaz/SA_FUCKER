@@ -1,3 +1,5 @@
+ # Links
+- Short Showcase: https://www.youtube.com/shorts/rEMfGSWPvVo
  # Warning
 - Mobile is NOT supported.
 - The only way to run Sa Fucker on mobile is to connect a keyboard to your phone, either IRL or Via a Script that you could find on google (Virtual keyboards)
