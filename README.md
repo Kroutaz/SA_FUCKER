@@ -5,3 +5,4 @@
  # Loadstring
 - loadstring(game:HttpGet("https://raw.githubusercontent.com/Kroutaz/SA_FUCKER/refs/heads/main/script.lua"))()
 - You can put that in your executor if you don't want to paste the entire code (some executors don't support loadstrings)
+![image](https://github.com/user-attachments/assets/6e1e34b6-578c-4568-bcfa-f6b8aa57d3a8)
